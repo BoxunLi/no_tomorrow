@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=INSTRUCTIONS\:\r\npress\ "W",\ "A",\ "S",\ and\ "D"\ to\ move\ \r\naim\ and\ shoot\ with\ mouse\r\npress\ "E"\ to\ pick\ up\ MedKits\ and\ Rifle\r\nWhen\ equipted\ with\ Rifle,\ hold\ "mouse"\ to\ rapidly\ fire\r\n\r\nOBJECTIVE\:\r\nThe\ amount\ of\ time\ you\ survived\ and\ the\ number\ of\ zombies\ you\ killed\ both\r\ncontribute\ to\ your\ final\ score.\r\nSo\ survive\ as\ long\ as\ you\ can\ and\ kill\ as\ many\ as\ you\ can\!\r\n\r\nKNOWN\ BUGS\:\r\nWhen\ a\ large\ amount\ of\ Zombies\ are\ on\ screen\ at\ the\ same\ time,\ the\ entire\r\ngame\ slows\ down.\r\n\r\nCITATIONS\:\r\nhttp\://www.wonder-tonic.com/zombie/\r\nhttps\://opengameart.org/content/miscblooddecalparticles\r\nhttp\://www.greenfoot.org/scenarios/21257\r\nhttps\://opengameart.org/content/top-down-sci-fi-shooter-pack\r\nhttps\://opengameart.org/content/animated-top-down-survivor-player\r\nhttps\://opengameart.org/content/animated-top-down-zombie\r\nhttps\://www.turbosquid.com/3d-models/3d-model-ak47-kalashnikov-rifle-games/747060\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawnZombie()
+comment3.text=spawns\ zombies\ randomly\ at\ random\ locations\ on\ the\ edges\ of\ the\ world\r\n\ the\ rate\ at\ which\ zombies\ are\ spawned\ increases\ as\ time\ goes\r\n
+comment4.params=
+comment4.target=void\ spawnMed()
+comment5.params=
+comment5.target=void\ spawnRifle()
+numComments=6

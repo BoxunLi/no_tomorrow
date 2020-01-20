@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BloodSplat
+comment0.text=\r\n\ shoots\ out\ every\ time\ a\ zombie\ gets\ shot\r\n
+comment1.params=
+comment1.target=BloodSplat()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ animateBlood()
+numComments=5

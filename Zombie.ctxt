@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Zombie
+comment0.text=hungry\ infected\ undead\ kind\r\n\ seeks\ for\ human\ brain\r\n\ follows\ the\ survivor\ and\ tries\ to\ devour\ him\r\n
+comment1.params=score
+comment1.target=Zombie(Score)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveAndAttack()
+comment4.params=
+comment4.target=void\ attack()
+comment5.params=
+comment5.target=void\ shot()
+comment6.params=
+comment6.target=void\ die()
+comment7.params=
+comment7.target=void\ animate()
+comment8.params=
+comment8.target=void\ animateAttack()
+numComments=9

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\nrecords\ and\ display\ your\ score\ so\ you\ can\ compare\ your\ score\ with\ you\ r\ friends\r\n
+comment1.params=
+comment1.target=Score()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addScoreZombie()
+comment4.params=
+comment4.target=void\ addScoreTime()
+numComments=5
